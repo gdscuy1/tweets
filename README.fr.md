@@ -44,7 +44,7 @@ Après cela, suivez les étapes ci-dessous.
     "url": "Lien vers Tweet"
  }
  ```
-Étape 4 : Prenez une capture d'écran de la publication et mettez-le dans le répertoire « [**pictures**](./archives/2023/pictures/) ». Elle doit être enregistrée sous le même nom de fichier que ci-dessus (nom du fichier = <**your-github-username**>.png). [Example](./archives/2023/pictures/example.png)
+**Étape 3** : Prenez une capture d'écran de la publication et mettez-le dans le répertoire « [**pictures**](./archives/2023/pictures/) ». Elle doit être enregistrée sous le même nom de fichier que ci-dessus (nom du fichier = <**your-github-username**>.png). [Example](./archives/2023/pictures/example.png)
 
 **Étape 4** : validez la modification apportée et poussez
 ```
