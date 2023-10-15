@@ -38,9 +38,7 @@ After that, follow the steps below.
 
 **Step 1**: Head over to our [**Twitter Account**](https://x.com/dsc_uy1)
 
-**Step 2**: Look for any tweet that interests you
-
-**Step 3**: - Make your changes. Create a file in [archives/2023/tweets/](./archives/2023/tweets/) (filename = <**your-github-username**>.json)
+**Step 2**: - Make your changes. Create a file in [archives/2023/tweets/](./archives/2023/tweets/) (filename = <**your-github-username**>.json)
 
 - List any [GDSC UY1](https://x.com/dsc_uy1) tweet that interests you, It should respect the format:
 ```json
@@ -49,9 +47,9 @@ After that, follow the steps below.
     "url": "Link to Tweet"
  }
  ```
-**Step 4**: Take a screenshot of the post and upload it in the ["**pictures**"](./archives/2023/pictures/) directory, It should saved with the same filename as above (filename = <**your-github-username**>.json).
+**Step 3**: Take a screenshot of the post and upload it in the ["**pictures**"](./archives/2023/pictures/) directory, It should saved with the same filename as above (filename = <**your-github-username**>.json).
 
-**Step 5**: Commit the changes made and push
+**Step 4**: Commit the changes made and push
 ```
     git commit -m "feat: Added the favourite tweet of <username>"
 
