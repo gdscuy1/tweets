@@ -35,9 +35,7 @@ Après cela, suivez les étapes ci-dessous.
 
 **Étape 1** : Rendez-vous sur notre [**Compte Twitter**](https://x.com/dsc_uy1)
 
-**Étape 2** : Recherchez n'importe quel tweet qui vous intéresse.
-
-Étape 3 : - Effectuez vos modifications. Créez un fichier dans [archives/2023/tweets/](./archives/2023/tweets/) (nom du fichier = <**your-github-username**>.json). [Example](./archives/2023/tweets/example.json)
+**Étape 2** : - Effectuez vos modifications. Créez un fichier dans [archives/2023/tweets/](./archives/2023/tweets/) (nom du fichier = <**your-github-username**>.json). [Example](./archives/2023/tweets/example.json)
 
 - Listez le tweet [GDSC UY1](https://x.com/dsc_uy1) qui vous intéresse, il doit respecter le format :
 ```json
@@ -46,9 +44,9 @@ Après cela, suivez les étapes ci-dessous.
     "url": "Lien vers Tweet"
  }
  ```
-Étape 4 : Prenez une capture d'écran de la publication et mettez-le dans le répertoire « [**pictures**](./archives/2023/pictures/) ». Elle doit être enregistrée sous le même nom de fichier que ci-dessus (nom du fichier = <**your-github-username**>.json). [Example](./archives/2023/pictures/example.png)
+**Étape 3** : Prenez une capture d'écran de la publication et mettez-le dans le répertoire « [**pictures**](./archives/2023/pictures/) ». Elle doit être enregistrée sous le même nom de fichier que ci-dessus (nom du fichier = <**your-github-username**>.json). [Example](./archives/2023/pictures/example.png)
 
-Étape 5 : validez la modification apportée et poussez
+**Étape 4** : validez la modification apportée et poussez
 ```
     git commit -m "feat : Ajout du tweet préféré de <votre-github-username>"
 
