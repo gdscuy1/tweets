@@ -1,4 +1,4 @@
-name: Update README contributors
+name: Add contributors to README
 
 on:
   schedule:
