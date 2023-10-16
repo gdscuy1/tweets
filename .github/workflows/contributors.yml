@@ -1,9 +1,6 @@
 name: Add contributors to README
 
 on:
-  schedule:
-    - cron: "* * * 10 *"
-
   pull_request:
     types:
       - closed
