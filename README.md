@@ -62,9 +62,35 @@ Come back to our github repo here and do a pull request.
 ## Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+</table>
 <!-- readme: collaborators -end -->
 
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Joel-Fah">
+            <img src="https://avatars.githubusercontent.com/u/69576717?v=4" width="100;" alt="Joel-Fah"/>
+            <br />
+            <sub><b>Joël Fah</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Edmond22-prog">
+            <img src="https://avatars.githubusercontent.com/u/72718072?v=4" width="100;" alt="Edmond22-prog"/>
+            <br />
+            <sub><b>Edmond Makolle</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/TATS03">
+            <img src="https://avatars.githubusercontent.com/u/92363710?v=4" width="100;" alt="TATS03"/>
+            <br />
+            <sub><b>TATSO3</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
